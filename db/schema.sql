@@ -1,3 +1,29 @@
+/* Lilac Hotels — Non-Residential Meetings (NRM) Data Schema
+
+Tables:
+  1) dishes_master      — Canonical dish catalog with grammage and calories.
+  2) menu_catalog       — Per hotel hall ("outlet") ordering of categories per meal period.
+  3) package_constructs — Required counts per (city, hall, meal_period, package, category).
+  4) menu_items         — Availability map: which dishes can be used per hall/period/category.
+
+Contract & invariants:
+  - meal_period ∈ {'DayDelegate','Evening','BreakfastMeeting'}
+  - package ∈ {'Silver','Gold','Platinum'}
+  - outlet == Hall name from hotel seeding (e.g., Lotus, Jasmine).
+  - temple-town rule (Kumbakonam, Guruvayur): nonveg_count = 0 in package_constructs;
+    menu_items entries marked 'Non-Veg' are omitted; Eggs excluded from BreakfastMeeting.
+  - 'Breads' may have total_required > 0 with veg_count = nonveg_count = 0 (assorted basket).
+  - dish_id is globally unique across all hotels.
+  - Categories in package_constructs MUST exist in menu_catalog for the same (hall, period).
+
+Change policy:
+  - Non-breaking: add dishes; adjust counts upward; reorder categories.
+  - Breaking: rename categories; add/remove meal periods/packages; change key fields.
+    → requires migration notes in PR and minor/major version bump (see README).
+
+Versioning:
+  - See configs/menus/package_rules.json metadata for rules version alignment.
+*/
 
 create table if not exists dishes_master (
   dish_id text primary key,

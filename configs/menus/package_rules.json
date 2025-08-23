@@ -1,0 +1,3262 @@
+{
+  "metadata": {
+    "generated_at": "2025-08-21T14:51:53.586195Z",
+    "notes": [
+      "BreakfastMeeting + property pools; temple-town veg-only; eggs excluded in temple towns."
+    ]
+  },
+  "rules": {
+    "Bengaluru:Gulmohar:BreakfastMeeting": {
+      "Gold": {
+        "Eggs": {
+          "veg": 0,
+          "nonveg": 2,
+          "total": 2
+        },
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Bakery": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Fruits": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      },
+      "Platinum": {
+        "Eggs": {
+          "veg": 0,
+          "nonveg": 2,
+          "total": 2
+        },
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Bakery": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Fruits": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      },
+      "Silver": {
+        "Eggs": {
+          "veg": 0,
+          "nonveg": 1,
+          "total": 1
+        },
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Bakery": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Fruits": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Cereal": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 0
+        }
+      }
+    },
+    "Bengaluru:Gulmohar:DayDelegate": {
+      "Gold": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 2,
+          "nonveg": 1,
+          "total": 3
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      },
+      "Platinum": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 1,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 8,
+          "nonveg": 2,
+          "total": 10
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 3,
+          "nonveg": 2,
+          "total": 5
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Silver": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 1,
+          "nonveg": 1,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        }
+      }
+    },
+    "Bengaluru:Gulmohar:Evening": {
+      "Gold": {
+        "Appetizers": {
+          "veg": 4,
+          "nonveg": 2,
+          "total": 6
+        },
+        "Soups": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 2,
+          "total": 8
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 4,
+          "nonveg": 1,
+          "total": 5
+        },
+        "Dry Veg": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Platinum": {
+        "Appetizers": {
+          "veg": 5,
+          "nonveg": 3,
+          "total": 8
+        },
+        "Soups": {
+          "veg": 2,
+          "nonveg": 1,
+          "total": 3
+        },
+        "Salads": {
+          "veg": 8,
+          "nonveg": 4,
+          "total": 12
+        },
+        "Curd Prep": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Mains": {
+          "veg": 5,
+          "nonveg": 1,
+          "total": 6
+        },
+        "Dry Veg": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 8,
+          "nonveg": 0,
+          "total": 8
+        }
+      },
+      "Silver": {
+        "Appetizers": {
+          "veg": 3,
+          "nonveg": 1,
+          "total": 4
+        },
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 5,
+          "nonveg": 1,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 2,
+          "nonveg": 1,
+          "total": 3
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      }
+    },
+    "Bengaluru:Jasmine:BreakfastMeeting": {
+      "Gold": {
+        "Eggs": {
+          "veg": 0,
+          "nonveg": 2,
+          "total": 2
+        },
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Bakery": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Fruits": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      },
+      "Platinum": {
+        "Eggs": {
+          "veg": 0,
+          "nonveg": 2,
+          "total": 2
+        },
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Bakery": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Fruits": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      },
+      "Silver": {
+        "Eggs": {
+          "veg": 0,
+          "nonveg": 1,
+          "total": 1
+        },
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Bakery": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Fruits": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Cereal": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 0
+        }
+      }
+    },
+    "Bengaluru:Jasmine:DayDelegate": {
+      "Gold": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 2,
+          "nonveg": 1,
+          "total": 3
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      },
+      "Platinum": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 1,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 8,
+          "nonveg": 2,
+          "total": 10
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 3,
+          "nonveg": 2,
+          "total": 5
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Silver": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 1,
+          "nonveg": 1,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        }
+      }
+    },
+    "Bengaluru:Jasmine:Evening": {
+      "Gold": {
+        "Appetizers": {
+          "veg": 4,
+          "nonveg": 2,
+          "total": 6
+        },
+        "Soups": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 2,
+          "total": 8
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 4,
+          "nonveg": 1,
+          "total": 5
+        },
+        "Dry Veg": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Platinum": {
+        "Appetizers": {
+          "veg": 5,
+          "nonveg": 3,
+          "total": 8
+        },
+        "Soups": {
+          "veg": 2,
+          "nonveg": 1,
+          "total": 3
+        },
+        "Salads": {
+          "veg": 8,
+          "nonveg": 4,
+          "total": 12
+        },
+        "Curd Prep": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Mains": {
+          "veg": 5,
+          "nonveg": 1,
+          "total": 6
+        },
+        "Dry Veg": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 8,
+          "nonveg": 0,
+          "total": 8
+        }
+      },
+      "Silver": {
+        "Appetizers": {
+          "veg": 3,
+          "nonveg": 1,
+          "total": 4
+        },
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 5,
+          "nonveg": 1,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 2,
+          "nonveg": 1,
+          "total": 3
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      }
+    },
+    "Bengaluru:Lotus:BreakfastMeeting": {
+      "Gold": {
+        "Eggs": {
+          "veg": 0,
+          "nonveg": 2,
+          "total": 2
+        },
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Bakery": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Fruits": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      },
+      "Platinum": {
+        "Eggs": {
+          "veg": 0,
+          "nonveg": 2,
+          "total": 2
+        },
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Bakery": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Fruits": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      },
+      "Silver": {
+        "Eggs": {
+          "veg": 0,
+          "nonveg": 1,
+          "total": 1
+        },
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Bakery": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Fruits": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Cereal": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 0
+        }
+      }
+    },
+    "Bengaluru:Lotus:DayDelegate": {
+      "Gold": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 2,
+          "nonveg": 1,
+          "total": 3
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      },
+      "Platinum": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 1,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 8,
+          "nonveg": 2,
+          "total": 10
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 3,
+          "nonveg": 2,
+          "total": 5
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Silver": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 1,
+          "nonveg": 1,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        }
+      }
+    },
+    "Bengaluru:Lotus:Evening": {
+      "Gold": {
+        "Appetizers": {
+          "veg": 4,
+          "nonveg": 2,
+          "total": 6
+        },
+        "Soups": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 2,
+          "total": 8
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 4,
+          "nonveg": 1,
+          "total": 5
+        },
+        "Dry Veg": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Platinum": {
+        "Appetizers": {
+          "veg": 5,
+          "nonveg": 3,
+          "total": 8
+        },
+        "Soups": {
+          "veg": 2,
+          "nonveg": 1,
+          "total": 3
+        },
+        "Salads": {
+          "veg": 8,
+          "nonveg": 4,
+          "total": 12
+        },
+        "Curd Prep": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Mains": {
+          "veg": 5,
+          "nonveg": 1,
+          "total": 6
+        },
+        "Dry Veg": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 8,
+          "nonveg": 0,
+          "total": 8
+        }
+      },
+      "Silver": {
+        "Appetizers": {
+          "veg": 3,
+          "nonveg": 1,
+          "total": 4
+        },
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 5,
+          "nonveg": 1,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 2,
+          "nonveg": 1,
+          "total": 3
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      }
+    },
+    "Bengaluru:Orchid:BreakfastMeeting": {
+      "Gold": {
+        "Eggs": {
+          "veg": 0,
+          "nonveg": 2,
+          "total": 2
+        },
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Bakery": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Fruits": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      },
+      "Platinum": {
+        "Eggs": {
+          "veg": 0,
+          "nonveg": 2,
+          "total": 2
+        },
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Bakery": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Fruits": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      },
+      "Silver": {
+        "Eggs": {
+          "veg": 0,
+          "nonveg": 1,
+          "total": 1
+        },
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Bakery": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Fruits": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Cereal": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 0
+        }
+      }
+    },
+    "Bengaluru:Orchid:DayDelegate": {
+      "Gold": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 2,
+          "nonveg": 1,
+          "total": 3
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      },
+      "Platinum": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 1,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 8,
+          "nonveg": 2,
+          "total": 10
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 3,
+          "nonveg": 2,
+          "total": 5
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Silver": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 1,
+          "nonveg": 1,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        }
+      }
+    },
+    "Bengaluru:Orchid:Evening": {
+      "Gold": {
+        "Appetizers": {
+          "veg": 4,
+          "nonveg": 2,
+          "total": 6
+        },
+        "Soups": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 2,
+          "total": 8
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 4,
+          "nonveg": 1,
+          "total": 5
+        },
+        "Dry Veg": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Platinum": {
+        "Appetizers": {
+          "veg": 5,
+          "nonveg": 3,
+          "total": 8
+        },
+        "Soups": {
+          "veg": 2,
+          "nonveg": 1,
+          "total": 3
+        },
+        "Salads": {
+          "veg": 8,
+          "nonveg": 4,
+          "total": 12
+        },
+        "Curd Prep": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Mains": {
+          "veg": 5,
+          "nonveg": 1,
+          "total": 6
+        },
+        "Dry Veg": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 8,
+          "nonveg": 0,
+          "total": 8
+        }
+      },
+      "Silver": {
+        "Appetizers": {
+          "veg": 3,
+          "nonveg": 1,
+          "total": 4
+        },
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 5,
+          "nonveg": 1,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 2,
+          "nonveg": 1,
+          "total": 3
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      }
+    },
+    "Guruvayur:Nila:BreakfastMeeting": {
+      "Gold": {
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Bakery": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Fruits": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      },
+      "Platinum": {
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Bakery": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Fruits": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Cereal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        }
+      },
+      "Silver": {
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Bakery": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Fruits": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      }
+    },
+    "Guruvayur:Nila:DayDelegate": {
+      "Gold": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      },
+      "Platinum": {
+        "Soups": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 10,
+          "nonveg": 0,
+          "total": 10
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 5,
+          "nonveg": 0,
+          "total": 5
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Silver": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        }
+      }
+    },
+    "Guruvayur:Nila:Evening": {
+      "Gold": {
+        "Appetizers": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Soups": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 8,
+          "nonveg": 0,
+          "total": 8
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 5,
+          "nonveg": 0,
+          "total": 5
+        },
+        "Dry Veg": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Platinum": {
+        "Appetizers": {
+          "veg": 5,
+          "nonveg": 0,
+          "total": 8
+        },
+        "Soups": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Salads": {
+          "veg": 12,
+          "nonveg": 0,
+          "total": 12
+        },
+        "Curd Prep": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Mains": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Dry Veg": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 8,
+          "nonveg": 0,
+          "total": 8
+        }
+      },
+      "Silver": {
+        "Appetizers": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      }
+    },
+    "Guruvayur:Periyar:BreakfastMeeting": {
+      "Gold": {
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Bakery": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Fruits": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      },
+      "Platinum": {
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Bakery": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Fruits": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Cereal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        }
+      },
+      "Silver": {
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Bakery": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Fruits": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      }
+    },
+    "Guruvayur:Periyar:DayDelegate": {
+      "Gold": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      },
+      "Platinum": {
+        "Soups": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 10,
+          "nonveg": 0,
+          "total": 10
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 5,
+          "nonveg": 0,
+          "total": 5
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Silver": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        }
+      }
+    },
+    "Guruvayur:Periyar:Evening": {
+      "Gold": {
+        "Appetizers": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Soups": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 8,
+          "nonveg": 0,
+          "total": 8
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 5,
+          "nonveg": 0,
+          "total": 5
+        },
+        "Dry Veg": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Platinum": {
+        "Appetizers": {
+          "veg": 5,
+          "nonveg": 0,
+          "total": 8
+        },
+        "Soups": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Salads": {
+          "veg": 12,
+          "nonveg": 0,
+          "total": 12
+        },
+        "Curd Prep": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Mains": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Dry Veg": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 8,
+          "nonveg": 0,
+          "total": 8
+        }
+      },
+      "Silver": {
+        "Appetizers": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      }
+    },
+    "Kumbakonam:Cavery:BreakfastMeeting": {
+      "Gold": {
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Bakery": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Fruits": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      },
+      "Platinum": {
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Bakery": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Fruits": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Cereal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        }
+      },
+      "Silver": {
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Bakery": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Fruits": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      }
+    },
+    "Kumbakonam:Cavery:DayDelegate": {
+      "Gold": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      },
+      "Platinum": {
+        "Soups": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 10,
+          "nonveg": 0,
+          "total": 10
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 5,
+          "nonveg": 0,
+          "total": 5
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Silver": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        }
+      }
+    },
+    "Kumbakonam:Cavery:Evening": {
+      "Gold": {
+        "Appetizers": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Soups": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 8,
+          "nonveg": 0,
+          "total": 8
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 5,
+          "nonveg": 0,
+          "total": 5
+        },
+        "Dry Veg": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Platinum": {
+        "Appetizers": {
+          "veg": 5,
+          "nonveg": 0,
+          "total": 8
+        },
+        "Soups": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Salads": {
+          "veg": 12,
+          "nonveg": 0,
+          "total": 12
+        },
+        "Curd Prep": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Mains": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Dry Veg": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 8,
+          "nonveg": 0,
+          "total": 8
+        }
+      },
+      "Silver": {
+        "Appetizers": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      }
+    },
+    "Kumbakonam:Vaigai:BreakfastMeeting": {
+      "Gold": {
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Bakery": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Fruits": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      },
+      "Platinum": {
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Bakery": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Fruits": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Cereal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        }
+      },
+      "Silver": {
+        "Indian Breads": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Steamed": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Snacks": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Bakery": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Fruits": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Cereal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        }
+      }
+    },
+    "Kumbakonam:Vaigai:DayDelegate": {
+      "Gold": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      },
+      "Platinum": {
+        "Soups": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 10,
+          "nonveg": 0,
+          "total": 10
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 5,
+          "nonveg": 0,
+          "total": 5
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dry Veg": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Silver": {
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        }
+      }
+    },
+    "Kumbakonam:Vaigai:Evening": {
+      "Gold": {
+        "Appetizers": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Soups": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Salads": {
+          "veg": 8,
+          "nonveg": 0,
+          "total": 8
+        },
+        "Curd Prep": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Mains": {
+          "veg": 5,
+          "nonveg": 0,
+          "total": 5
+        },
+        "Dry Veg": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        }
+      },
+      "Platinum": {
+        "Appetizers": {
+          "veg": 5,
+          "nonveg": 0,
+          "total": 8
+        },
+        "Soups": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Salads": {
+          "veg": 12,
+          "nonveg": 0,
+          "total": 12
+        },
+        "Curd Prep": {
+          "veg": 4,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Mains": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Dry Veg": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Dal": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Rice": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 8,
+          "nonveg": 0,
+          "total": 8
+        }
+      },
+      "Silver": {
+        "Appetizers": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 4
+        },
+        "Soups": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Salads": {
+          "veg": 6,
+          "nonveg": 0,
+          "total": 6
+        },
+        "Curd Prep": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Mains": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        },
+        "Dry Veg": {
+          "veg": 2,
+          "nonveg": 0,
+          "total": 2
+        },
+        "Dal": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Rice": {
+          "veg": 1,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Breads": {
+          "veg": 0,
+          "nonveg": 0,
+          "total": 1
+        },
+        "Desserts": {
+          "veg": 3,
+          "nonveg": 0,
+          "total": 3
+        }
+      }
+    }
+  }
+}

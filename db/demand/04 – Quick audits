@@ -1,0 +1,16 @@
+select
+  hotel_name, event_name, timing, priority, is_blackout,
+  case
+    when coalesce(is_blackout,false) = true then 'HIGH'
+    when upper(coalesce(priority,'')) in ('HIGH','PEAK','WEDDING')
+      or upper(coalesce(timing,'')) like '%WEDDING%'
+      or upper(coalesce(event_name,'')) like '%WEDDING%'
+      then 'HIGH'
+    when priority ~ '^\d+$' and priority::int >= 8 then 'HIGH'
+    when priority ~ '^\d+$' and priority::int between 5 and 7 then 'NORMAL'
+    when priority ~ '^\d+$' and priority::int <= 4 then 'LOW'
+    when upper(coalesce(priority,'')) = 'LOW' then 'LOW'
+    else 'NORMAL'
+  end as derived_tier
+from staging.demand_events_source
+limit 20;

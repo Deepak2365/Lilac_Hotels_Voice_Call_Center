@@ -48,9 +48,26 @@ mapped as (
     hotel_id, event_code, event_name,
     start_date, end_date, timing,
     priority_num, priority_raw,
-    fnb_adjust_type, fnb_adjust_value,
-    hall_adjust_type, hall_adjust_value,
+
+    -- normalize F&B adjust type
+    case
+      when upper(coalesce(fnb_adjust_type,'')) in ('PCT','PERCENT','PERCENTAGE','%') then 'PCT'
+      when upper(coalesce(fnb_adjust_type,'')) in ('ABS','FLAT','FIXED','AMOUNT')    then 'ABS'
+      else null
+    end as fnb_adjust_type,
+    fnb_adjust_value,
+
+    -- normalize Hall adjust type
+    case
+      when upper(coalesce(hall_adjust_type,'')) in ('PCT','PERCENT','PERCENTAGE','%') then 'PCT'
+      when upper(coalesce(hall_adjust_type,'')) in ('ABS','FLAT','FIXED','AMOUNT')    then 'ABS'
+      else null
+    end as hall_adjust_type,
+    hall_adjust_value,
+
     allow_bot_discount, is_blackout, notes,
+
+    -- demand tier derivation
     case
       when is_blackout then 'HIGH'::demand_tier
       when coalesce(lower(priority_raw),'') similar to '%(high|peak|wedding)%' then 'HIGH'::demand_tier
@@ -59,7 +76,7 @@ mapped as (
       else 'LOW'::demand_tier
     end as demand_tier
   from parsed
-)
+)  
 insert into demand_events as de (
   hotel_id, event_code, event_name, start_date, end_date, timing,
   priority, priority_raw,
